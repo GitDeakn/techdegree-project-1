@@ -7,8 +7,8 @@ I started with storing a list of quotes in an array.
 
 Every quote in the array is an object containing the following properties: quote and source. Some quotes contain the properties: citation and year.
 
-I used the a funtion to return a random quote object from the quotes array.
+I used the getRandomQuote funtion to return a random quote object from the quotes array.
 
-Then used the prinQuote function to return the properties that the object may include and display them on the page.
+Then used the printQuote function to return the properties that the object may include and display them on the page.
 
 
