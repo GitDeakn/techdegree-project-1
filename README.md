@@ -1,2 +1,3 @@
 # Techdegree Project 1
- Random quote generator
+My First JavaScipt Project
+An interactive Quote Generator that changes with a button
