@@ -9,6 +9,6 @@ Every quote in the array is an object containing the following properties: quote
 
 I used the getRandomQuote funtion to return a random quote object from the quotes array.
 
-Then used the printQuote function to return the properties that the object may include and display them on the page.
+Then used the printQuote function to return the propertie values that the object may include and display them on the page.
 
 
