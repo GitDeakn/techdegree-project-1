@@ -1,3 +1,14 @@
 # Techdegree Project 1
-My First JavaScipt Project.
-An interactive random quote generator that changes with a button.
+Random Quote Generator
+
+This application generates a random quote, displays it on the page every time the button is pressed.
+
+I started with storing a list of quotes in an array.
+
+Every quote in the array is an object containing the following properties: quote and source. Some quotes contain the properties: citation and year.
+
+I used the a funtion to return a random quote object from the quotes array.
+
+Then used the prinQuote function to return the properties that the object may include and display them on the page.
+
+
